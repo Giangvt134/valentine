@@ -236,12 +236,3 @@ body {
     font-size: 70px;
     margin: 150px;
 } 
-
-a {
-    padding: 1px 6px;
-    border: 1px outset #d690b4;
-    border-radius: 3px;
-    color: #ad457b;
-    background-color: #d690b4;
-    text-decoration: none;
-}
